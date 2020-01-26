@@ -5,6 +5,12 @@ Aplikasi AppBar Flutter
 
 ![appbar](https://user-images.githubusercontent.com/60292040/73129782-f19c4100-401d-11ea-9841-7e4909964fa8.jpg)
 
+Anda juga dapat memadukan hasil pelajaran yang pertama tentang :
+https://github.com/ramzilhuda/membuat_style_flutter
+
+Hasilnya dapat dilihat pada gambar di bawah ini 
+![data mahasiswa](https://user-images.githubusercontent.com/60292040/73130030-805f8c80-4023-11ea-8964-b7175c10fdd3.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
